@@ -1,2 +1,2 @@
 # Bank-Management-System
-A Java Swing + MySQL mini project for managing bank customers, employees, and ATM transactions (DBMS mini project).
+Developed a Banking Management System using Java Swing, MySQL, and JDBC, featuring customer and employee management, account creation, deposits, withdrawals, balance inquiry, fund transfers, and ATM transaction processing through a user-friendly desktop application.
